@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>star_2.png</file>
+    <file>gameboy.png</file>
+    <file>star.png</file>
+  </qresource>
+</RCC>
